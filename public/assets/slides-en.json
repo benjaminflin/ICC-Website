@@ -1,0 +1,839 @@
+[
+	{
+		"layout": "intro",
+		"text": [ "In the aftermath of mass crimes...", "how do people survive", "heal, and find hope?" ]
+	},
+	{
+		"layout": "title",
+		"title": "Trauma, healing and hope",
+		"subtitle": "Towards a more just world",
+		"background": "/assets/images/01-009_IMG_1863-resized.jpg",
+		"logo": "/assets/images/ICC-Logo_60x50_transparentcrop.png",
+		"credit": "Images by Marcus Bleasdale",
+		"link": "Lire en français"
+	},
+	{
+		"layout": "blank",
+		"title": "Trauma"
+	},
+	{
+		"layout": "blank",
+		"title": "Why Justice"
+	},
+	{
+		"layout": "split",
+		"title": "Injustice exists in many forms.",
+		"background": "/assets/images/02-041_IMG_5416-resized.jpg",
+		"desc": {
+			"caption": "A sudden end to peace",
+			"text": "Troops leave behind little but smoke and black earth.",
+			"location": "Gori, Georgia, 2008"
+		}
+	},
+	{
+		"layout": "split",
+		"title": "Violent crimes, when widespread and systematic, shatter societies...",
+		"background": "/assets/images/05-049_IMG_1571-resized.jpg",
+		"desc": {
+			"caption": "Shattered",
+			"text": "Citizens of Gori walk past a destroyed building after bombs landed in Stalin Square, killing people but leaving the town's statue of Stalin undamaged.",
+			"location": "Georgia, 2008"
+		}
+	},
+	{
+		"layout": "split-reverse",
+		"title": "create instability...",
+		"background": "/assets/images/06-018_MG_0168-resized.jpg",
+		"desc": {
+			"caption": "Scarred for life",
+			"text": "Drawing on the walls of abandoned building in Ituri province.",
+			"location": "Democratic Republic of Congo, 2009"
+		}
+	},
+	{
+		"layout": "split-reverse",
+		"title": "and cause immeasurable harm.",
+		"background": "/assets/images/07-059_IMG_3775-resized.jpg",
+		"desc": {
+			"caption": "Assessing",
+			"text": "A resident breaks down as she inspects her home.",
+			"location": "Georgia, 2008"
+		}
+	},
+	{
+		"layout": "split-reverse",
+		"title": "In exploring injustice and harm done, we seek to find possibilities for healing and hope.",
+		"background": "/assets/images/49-0106-resized.jpg",
+		"desc": {
+			"caption": "Ashes remain",
+			"text": "A man from around PK13 on the outskirts of Bangui runs through looted and burning homes of the civilians who have fled.",
+			"location": "Central African Republic, 2014"
+		}
+	},
+	{
+		"layout": "split",
+		"title": "We seek to break cycles of violence, so peace is possible.",
+		"background": "/assets/images/48-0072-resized.jpg",
+		"desc": {
+			"caption": "Disarming",
+			"text": "Machetes collected in the disarmament process.",
+			"location": ""
+		}
+	},
+	{
+		"layout": "blank",
+		"title": "Crimes and their aftermath"
+	},
+	{
+		"layout": "split-story",
+		"title": "65.6 million people forcibly displaced",
+		"background": "/assets/images/08-ROAN_046-resized.jpg",
+		"story": {
+			"text": "\"Over the past two decades, the global population of forcibly displaced people has grown substantially from 33.9 million in 1997 to 65.6 million in 2016, and it remains at a record high.\"",
+			"caption": [ "Global Trends", "Forced Displacement in 2016", "UNHCR" ]
+		},
+		"desc": {
+			"caption": "Displaced",
+			"text": "People wait for food from the World Food Programme.",
+			"location": "Kiwanja Villace, DRC, 2008"
+		}
+	},
+	{
+		"layout": "split",
+		"title": "Braving a return",
+		"background": "/assets/images/03-ROAN_043-resized.jpg",
+		"desc": {
+			"caption": "",
+			"text": "Just weeks after fleeing the fighting, communities begin the long walk home to vote, braving possible attacks by either side of the conflict along the way.",
+			"location": "Democratic Republic of Congo, 2006"
+		}
+	},
+	{
+		"layout": "split-reverse",
+		"title": "Homes destroyed",
+		"background": "/assets/images/09-027_IMG_4808-resized.jpg",
+		"desc": {
+			"caption": "",
+			"text": "A destroyed apartment block.",
+			"location": "Tskhinvali, Georgia, 2008"
+		}
+	},
+	{
+		"layout": "split-reverse",
+		"title": "Beyond belief",
+		"background": "/assets/images/04-025_IMG_2963-resized.jpg",
+		"desc": {
+			"caption": "",
+			"text": [
+				"A Georgian villager protests the bomb attacks on his home, which",
+				"ripped into his house and left him homeless."
+			],
+			"location": "Georgia, 2008"
+		}
+	},
+	{
+		"layout": "split-story-reverse",
+		"title": "Rescue and Escape",
+		"background": "/assets/images/12-025_IMG_2101-resized.jpg",
+		"story": {
+			"desc": {
+				"caption": "Meet Valentine",
+				"text": "Valantine, 15, was abducted when she was 13 years old for 7 months. She tells of how she was taken directly to a commander and forced to be one of his many “wives”. She was accused of being a sorcerer and was going to be tried by the commander. She escaped the day before the trial. She lay naked in a field for 2 days and nights hiding from her attackers as they searched for her. When they left, she came out of the bush and found a 2 year old boy crying for his mother who had been abducted. She picked him up and walked naked to the nearest village in search of help.",
+				"location": "Central African Republic, 2010"
+			},
+			"text": "“Rape is often a tool of war to terrorize and intimidate communities. Sexual violence also flourishes in the context of impunity that often accompanies war.”",
+			"caption": "Radhika Coomaraswamy"
+		}
+	},
+	{
+		"layout": "split-story-link",
+		"title": "Childhood Erased",
+		"background": "/assets/images/13-ROAN_030-resized.jpg",
+		"story": {
+			"desc": {
+				"caption": "",
+				"text": "A child soldier waits in Kanyabyonga as the rebels advance. He didn’t want to be abducted and forced to fight for one side, so he allegedly volunteered for the other.",
+				"location": "Democratic Republic Congo, 2008"
+			},
+			"text": "\"The risks to children in armed groups is huge, and the after-effects can last a lifetime\"",
+			"textLink": {
+				"text": "Warchild.org",
+				"href": "https://www.warchild.org"
+			},
+			"caption": "",
+			"captionLink": {
+				"text": "The first case to be tried before the ICC was about the use of child soldiers. It was also the ICC’s first verdict. The accused, Mr Lubanga, was found guilty and sentenced to 14 years.",
+				"href": "https://www.icc-cpi.int/drc/lubanga"
+			}
+		}
+	},
+	{
+		"layout": "blank",
+		"title": "Insecurity"
+	},
+	{
+		"layout": "split-reverse",
+		"title": "90% of current war casualties are civilans, the majority of whom are women and children",
+		"background": "/assets/images/14-0034-resized.jpg",
+		"desc": {
+			"caption": "Insecurity",
+			"text": "A mother protects her child from gunfire while displaced seek shelter in a compound in Bossangoa as the town is attacked.",
+			"location": "Central African Republic, 2013"
+		}
+	},
+	{
+		"layout": "split-reverse",
+		"title": "Fear",
+		"background": "/assets/images/15-MB_Uganda_2004_001-resized.jpg",
+		"desc": {
+			"caption": "",
+			"text": "Thousands of children flee their villages to avoid being abducted and used as child soldiers during the conflict in Northern Uganda.",
+			"location": "Central African Republic, 2013"
+		}
+	},
+	{
+		"layout": "split-story",
+		"title": "Safety in Numbers",
+		"background": "/assets/images/16-MB_Uganda_2004_002-resized.jpg",
+		"story": {
+			"desc": {
+				"caption": "",
+				"text": "Children band together each night for protection. In 2003, up to 25,000 children slept outside in Gulu town each evening, and allegedly nearly 9,000 children had been abducted within the past twelve months. After sleeping the night outside in the wet, cold open-air bus station, they rise at 4 a.m. to start the 10-20km walk back to their villages.",
+				"location": "Uganda, 2003"
+			},
+			"text": "“With the changing nature of armed conflict, the impact of war on children and young people has become more brutal than ever.”",
+			"caption": "SRSG Radhika Coomaraswamy"
+		}
+	},
+	{
+		"layout": "split",
+		"title": "What is left behind",
+		"background": "/assets/images/17-045_IMG_5220-resized.jpg",
+		"desc": {
+			"caption": "",
+			"text": "Residents inspect abandoned equipment in the village they return to after fleeing.",
+			"location": "Georgia, 2008"
+		}
+	},
+	{
+		"layout": "split",
+		"title": "Scars",
+		"background": "/assets/images/18-004_IMG_1508-resized.jpg",
+		"desc": {
+			"caption": "",
+			"text": "Scars remain after a bomb attack on Stalin Square, leaving several people dead.",
+			"location": "Gori, Georgia, 2008"
+		}
+	},
+	{
+		"layout": "split",
+		"title": "Curfew",
+		"background": "/assets/images/19-0137-resized.jpg",
+		"desc": {
+			"caption": "",
+			"text": "Troops patrol the streets of Bangui during the curfew.",
+			"location": "Central African Republic, 2014"
+		}
+	},
+	{
+		"layout": "split",
+		"title": "Uncertainty",
+		"background": "/assets/images/20-029_IMG_5037-resized.jpg",
+		"desc": {
+			"caption": "",
+			"text": "Residents of Tskhinvali walk home in the dark after all electricity is cut following attacks on the town.",
+			"location": "Georgia, 2008"
+		}
+	},
+	{
+		"layout": "split-story",
+		"title": "All that remains",
+		"background": "/assets/images/21-Sudan_029_9226_30_17-resized.jpg",
+		"story": {
+			"desc": {
+				"caption": "",
+				"text": "The remains of the villages in Sudan bordering the area of Adre, Eastern Chad. The town was allegedly attacked by rebels in February 2007, reportedly leaving 50 soldiers killed and 184 injured, along with more than 40 civilians killed or injured.",
+				"location": "Sudan, 2010"
+			},
+			"text": "",
+			"caption": ""
+		},
+		"desc": {
+			"caption": "",
+			"text": "The remains of the villages in Sudan bordering the area of Adre, Eastern Chad.",
+			"location": "Sudan, 2010"
+		}
+	},
+	{
+		"layout": "split",
+		"title": "Broken",
+		"background": "/assets/images/22-0026-resized.jpg",
+		"desc": {
+			"caption": "",
+			"text": "The burned and broken remnants of the health center in Zéré. Hundreds of homes were destroyed in the town over a series of attacks.",
+			"location": "Central African Republic, 2013"
+		}
+	},
+	{
+		"layout": "blank",
+		"title": "Loss"
+	},
+	{
+		"layout": "split-story",
+		"title": "Taken away",
+		"background": "/assets/images/23-0098-resized.jpg",
+		"story": {
+			"desc": {
+				"caption": "",
+				"text": "The wife of a 34-year-old man, father of 8 children, screams and faints after learning of the death of her husband in PK12. He was shot while buying breakfast for his children.",
+				"location": "Central African Republic, 2014"
+			},
+			"text": "“A single traumatic death triggers a cascade of suffering and heartache, affecting the spouse, parents, siblings, and children of the person who died.”",
+			"caption": [
+				"Camille, B. Wortman & al.",
+				"Encyclopedia of Trauma: An Interdisciplinary Guide, 1st ed.",
+				"Tulane University, USA: Sage Publication, 2012"
+			]
+		},
+		"desc": {
+			"caption": "",
+			"text": "The wife of a 34-year-old man screams and faints after learning of the death of her husband.",
+			"location": "Central African Republic, 2014"
+		}
+	},
+	{
+		"layout": "split-story",
+		"title": "Broken",
+		"background": "/assets/images/24-Sudan_006_9199_2_20-resized.jpg",
+		"story": {
+			"desc": {
+				"caption": "",
+				"text": "Bodies of teenage boys outside the village of Jijira Adi Abbe in Western Darfur, Sudan after being bombed. Forces moved in after the bombing and allegedly killed 267 people in this village alone. Mass graves circle the village, while bodies of young boys lie unburied.",
+				"location": "Sudan, 2010"
+			},
+			"text": "",
+			"caption": ""
+		},
+		"desc": {
+			"caption": "",
+			"text": "Bodies of teenage boys outside the village of Jijira Adi Abbe in Western Darfur, Sudan after being bombed.",
+			"location": "Sudan, 2010"
+		}
+	},
+	{
+		"layout": "split-story",
+		"title": "Mutilated",
+		"background": "/assets/images/25-ROAN_040-resized.jpg",
+		"story": {
+			"desc": {
+				"caption": "",
+				"text": "Maria, a mother of three, lost her arm defending her children in Nizi, northeastern Congo. She recounts the story of members of an armed group eating her flesh after they had hacked off her arm.",
+				"location": "Democratic Republic of Congo, 2009"
+			},
+			"text": "",
+			"caption": ""
+		},
+		"desc": {
+			"caption": "",
+			"text": "Maria, a mother of three, lost her arm defending her children in northeastern Congo",
+			"location": "Democratic Republic of Congo, 2009"
+		}
+	},
+	{
+		"layout": "split",
+		"title": "Nowhere is safe",
+		"background": "/assets/images/26-006_IMG_1762-resized.jpg",
+		"desc": {
+			"caption": "",
+			"text": "A homeless resident of bombed apartments.",
+			"location": "Georgia, 2008"
+		}
+	},
+	{
+		"layout": "split-story",
+		"title": "Exterminated",
+		"background": "/assets/images/27-033_MG_0272-resized.jpg",
+		"story": {
+			"desc": {
+				"caption": "",
+				"text": "Skulls collected by residents in Ituri Province in DRC. They were killed during attacks on the area in 2002 and 2003.",
+				"location": "Democratic Republic of Congo, 2009"
+			},
+			"text": "",
+			"caption": ""
+		},
+		"desc": {
+			"caption": "",
+			"text": "Skulls collected by residents in Ituri Province in DRC.",
+			"location": "Democratic Republic of Congo, 2009"
+		}
+	},
+	{
+		"layout": "split-story-reverse",
+		"title": "Gone",
+		"background": "/assets/images/28-036_IMG_1861.jpg",
+		"story": {
+			"desc": {
+				"caption": "",
+				"text": "Photos of the family of victims killed in a bombing in Gori left on the bed during packing to evacuate. Three members of the family were killed in the attack.",
+				"location": "Georgia, 2008"
+			},
+			"text": "",
+			"caption": ""
+		},
+		"desc": {
+			"caption": "",
+			"text": "Photos of the family of victims killed in a bombing in Gori left on the bed during packing to evacuate.",
+			"location": "Georgia, 2008"
+		}
+	},
+	{
+		"layout": "blank",
+		"title": "Healing & Hope"
+	},
+	{
+		"layout": "split-story",
+		"title": "Healing",
+		"background": "/assets/images/29-111_IMG_3458-resized.jpg",
+		"story": {
+			"desc": {
+				"caption": "",
+				"text": "Masua, 22, fisherman and father of three children, was abducted and used as a porter. When he became too tired to continue he was taken into the bush and the commanders forced the children to hit him with sticks until they thought he was dead. He was found barely alive by some people coming to the village to bury the dead after they heard of the attack.",
+				"location": "Democratic Republic of Congo, 2010"
+			},
+			"text": "",
+			"caption": ""
+		},
+		"desc": {
+			"caption": "",
+			"text": "Masua, 22, fisherman and father of three children, was abducted and used as a porter.",
+			"location": "Democratic Republic of Congo, 2010"
+		}
+	},
+	{
+		"layout": "split-story",
+		"title": "Remembering",
+		"background": "/assets/images/30-028_IMG_5108-resized.jpg",
+		"story": {
+			"desc": {
+				"caption": "",
+				"text": "Luba, 65, breaks down after being looted by militia. They killed her brother-in-law and destroyed the only photographs she had of her dead son.",
+				"location": "Georgia, 2008"
+			},
+			"text": "“Survivors typically experience painful grief symptoms, such as yearning for their loved one, as well as trauma symptoms, such as disturbing intrusive thoughts.”",
+			"caption": [
+				"Camille, B. Wortman & al.",
+				"Encyclopedia of Trauma: An Interdisciplinary Guide, 1st ed.",
+				"Tulane University, USA: Sage Publication, 2012"
+			]
+		},
+		"desc": {
+			"caption": "",
+			"text": "Luba, 65, breaks down after being looted by militia.",
+			"location": "Georgia, 2008"
+		}
+	},
+	{
+		"layout": "split-story-link",
+		"title": "Reflecting",
+		"background": "/assets/images/31-CongoLRA_053_IMG_1036-resized.jpg",
+		"story": {
+			"text": "“Children Should Not Fight Wars; yet, tens of thousands of children are forced, coerced or born into conflict every day where they end up fighting that which the adults created.”",
+			"caption": "",
+			"captionLink": {
+				"text": "childsoldiers.org",
+				"href": "https://www.childsoldiers.org"
+			},
+			"textLink": {
+				"text": "",
+				"href": ""
+			}
+		},
+		"desc": {
+			"caption": "",
+			"text": "Boniface, 14, spent six months as a soldier.",
+			"location": "Democratic Republic of Congo, 2010"
+		}
+	},
+	{
+		"layout": "split-story",
+		"title": "Out of hiding",
+		"background": "/assets/images/32-017_IMG_2748-resized.jpg",
+		"story": {
+			"text": "“Experiences that are described as traumatic, like warfare for most people, are those that shatter long-held expectations and result in the individual struggling to make sense of what the event means about the self and the world in general.”",
+			"caption": [
+				"A. Winter, David, and Rachel Brown, Stephanie Goins and Claire Mason",
+				"Trauma, Survival and Resilience in War Zones",
+				"Oxford: Routledge, 2016"
+			]
+		},
+		"desc": {
+			"caption": "",
+			"text": "A displaced woman after arriving in GOri, she had been hiding in a basement for one week.",
+			"location": "Georgia, 2008"
+		}
+	},
+	{
+		"layout": "split-story",
+		"title": "Reliving",
+		"background": "/assets/images/33-_MG_1061-resized.jpg",
+		"story": {
+			"desc": {
+				"caption": "",
+				"text": "Digida, 71, was abducted along with his four grandchildren. He was detained for four days, but his grandchildren were not released. All were forced to carry heavy loads, including food and clothes looted from mud huts. \"It was impossible to cry and say you are tired, because if you do that, they kill you,\" he said.",
+				"location": "Democratic Republic of Congo, 2009"
+			},
+			"text": "",
+			"caption": ""
+		},
+		"desc": {
+			"caption": "",
+			"text": "Digida, 71, was abducted along with his four grandchildren.",
+			"location": "Democratic Republic of Congo, 2009"
+		}
+	},
+	{
+		"layout": "split",
+		"title": "Recovering",
+		"background": "/assets/images/34-0050-resized.jpg",
+		"desc": {
+			"caption": "",
+			"text": "After being shot, Maurice lies in the hospital after treatment in Bossangoa",
+			"location": "Central African Republic, 2013"
+		}
+	},
+	{
+		"layout": "split-story",
+		"title": "Togetherness",
+		"background": "/assets/images/35-061_IMG_4959-resized.jpg",
+		"story": {
+			"text": "“At the core of any reconciliation process is the preparedness of people to anticipate a shared future.”",
+			"caption": [
+				"Rigby, Andrew",
+				"Justice and Reconciliation: After the Violence",
+				"London: Lynne Rienner Publishers, 2001"
+			]
+		},
+		"desc": {
+			"caption": "",
+			"text": "Civilians and military ingle at a concert for peace held in Tskhinvali after the fighting",
+			"location": "Georgia, 2008"
+		}
+	},
+	{
+		"layout": "split-story-reverse",
+		"title": "Focus",
+		"background": "/assets/images/36-031_IMG_1281-resized.jpg",
+		"story": {
+			"text": "“For reconciliation to take place and wholeness and harmony to be approached, then some degree of truth, mercy, or forgiveness, justice, and peace must be woven into the process.”",
+			"caption": [
+				"A. Winter, David, and Rachel Brown, Stephanie Goins and Claire Mason",
+				"Trauma, Survival and Resilience in War Zones",
+				"Oxford: Routledge, 2016"
+			]
+		},
+		"desc": {
+			"caption": "",
+			"text": "A resident of Gori prays at church on the Sunday after the fighting in the town.",
+			"location": "Georgia, 2008"
+		}
+	},
+	{
+		"layout": "split-story-reverse",
+		"title": "New life",
+		"background": "/assets/images/37-Sudan_082_IMG_3277-resized.jpg",
+		"story": {
+			"desc": {
+				"caption": "",
+				"text": "Khadija, who is from Chad, and her daughter Husseinya in their hut in the displaced camp in Mareina, Eastern Chad. She was forced to walk from her village without food after it was attacked. The mother then gave birth to twins, but the second child was stillborn. The remaining child is less than one kilo in weight.",
+				"location": "Eastern Chad bordering Darfur, Sudan, 2009"
+			},
+			"text": "",
+			"caption": ""
+		},
+		"desc": {
+			"caption": "",
+			"text": "Khadija, who is from Chad, and her daughter Husseinya in their hut in the displaced camp in Mareina, Eastern Chad.",
+			"location": "Eastern Chad bordering Darfur, Sudan, 2009"
+		}
+	},
+	{
+		"layout": "split-reverse",
+		"title": "Survival",
+		"background": "/assets/images/38-0001-resized.jpg",
+		"desc": {
+			"caption": "",
+			"text": "Khadidja, a 30-year-old Mboro woman, witnessed her husband and three children being killed. In the same attack, she was shot in the neck but survived.",
+			"location": "Central African Republic, 2013"
+		}
+	},
+	{
+		"layout": "split",
+		"title": "Resettling",
+		"background": "/assets/images/39-0002-resized.jpg",
+		"desc": {
+			"caption": "",
+			"text": "Saidou is from the village of Ben Zambe. He was displaced in Bossangoa after the attack on his village.",
+			"location": "Central African Republic, 2013"
+		}
+	},
+	{
+		"layout": "split-story",
+		"title": "Taking refuge",
+		"background": "/assets/images/40-ROAN_048-resized.jpg",
+		"story": {
+			"desc": {
+				"caption": "",
+				"text": "Opangi, age 5, in Tchomia camp after being displaced by nearby fighting. Around 30,000 were displaced in this area with limited supplies and virtually no international help.",
+				"location": "Democratic Republic of Congo, 2006"
+			},
+			"text": "“51% - children below 18 years of age constituted about half of the refugee population in 2016, as in recent years.”",
+			"caption": [ "Global Trends", "Forced Displacement in 2016", "UNHCR" ]
+		},
+		"desc": {
+			"caption": "",
+			"text": "Opangi, age 5, in Tchomia camp after being displaced by nearby fighting.",
+			"location": "Democratic Republic of Congo, 2006"
+		}
+	},
+	{
+		"layout": "split-story-reverse",
+		"title": "Taking refuge",
+		"background": "/assets/images/41-043_IMG_0779-resized.jpg",
+		"story": {
+			"text": "“Children separated from their parents and families because of conflict, forced displacement, or natural disasters are among the most vulnerable.”",
+			"caption": [ "Global Trends", "Forced Displacement in 2016", "UNHCR" ]
+		},
+		"desc": {
+			"caption": "",
+			"text": "Aleko, age 7, who was displaced by fighting, is playing in the airport camp in Gori.",
+			"location": "Georgia, 2008"
+		}
+	},
+	{
+		"layout": "split-story-reverse",
+		"title": "Play",
+		"background": "/assets/images/42-010_IMG_0820-resized.jpg",
+		"story": {
+			"text": "“Resilience can be defined as the capacity to withstand or recover from significant challenges that threaten stability, viability or development.”",
+			"caption": [
+				"A. Winter, David, and Rachel Brown, Stephanie Goins and Claire Mason",
+				"Trauma, Survival and Resilience in War Zones",
+				"Oxford: Routledge, 2016"
+			]
+		},
+		"desc": {
+			"caption": "",
+			"text": "Children play in the prison in Naivasha, which became a sanctuary after hundreds were killed during the post-election violence.",
+			"location": "Kenya, 2008"
+		}
+	},
+	{
+		"layout": "split-reverse",
+		"title": "Working together",
+		"background": "/assets/images/43-055_IMG_1238-resized.jpg",
+		"desc": {
+			"caption": "",
+			"text": "Bread being distributed in Gori.",
+			"location": "Georgia, 2008"
+		}
+	},
+	{
+		"layout": "split-story-reverse",
+		"title": "Working together",
+		"background": "/assets/images/44-0094-resized.jpg",
+		"story": {
+			"desc": {
+				"caption": "A narrow escape",
+				"text": "Leaving home for good as their community is looted and burned. This group of 31 people was surrounded, trapped and threatened to be killed. After a long stand-off, they were finally moved 1 km to safety.",
+				"location": "Central African Republic, 2014"
+			},
+			"text": "",
+			"caption": ""
+		},
+		"desc": {
+			"caption": "",
+			"text": "Leaving home for good as their community is looted and burned.",
+			"location": "Central African Republic, 2014"
+		}
+	},
+	{
+		"layout": "blank",
+		"title": "Towards a more just world"
+	},
+	{
+		"layout": "split-story-reverse",
+		"title": "How can justice be part of the healing process?",
+		"background": "/assets/images/45-0142-resized.jpg",
+		"story": {
+			"desc": {
+				"caption": "Family",
+				"text": "A mother greets her son and celebrates as he arrives home with his father. They were abducted from their farm and forced to carry belongings while marching through the bush for nine days. Four others who were taken were shot and killed when they became too tired to continue. Father and son, here age 24, escaped while their captors attacked a local village.",
+				"location": "Central African Republic, 2014"
+			},
+			"text": "",
+			"caption": ""
+		},
+		"desc": {
+			"caption": "",
+			"text": "A mother greets her son and celebrates as he arrives home with his father.",
+			"location": "Central African Republic, 2014"
+		}
+	},
+	{
+		"layout": "split",
+		"title": "Justice helps build communities",
+		"background": "/assets/images/46-0022-resized.jpg",
+		"desc": {
+			"caption": "Shelter",
+			"text": "Tens of thousands of internally displaced people shelter on the grounds of a church in Bossangoa, where many fled from deadly attacks.",
+			"location": "Central African Republic, 2013"
+		}
+	},
+	{
+		"layout": "split-reverse",
+		"title": "promote reconciliation...",
+		"background": "/assets/images/47-030_IMG_4940-resized.jpg",
+		"desc": {
+			"caption": "Mingling",
+			"text": "Civilians and military mingle at a concert for peace held in Tskhinvali after the fighting.",
+			"location": "Georgia, 2008"
+		}
+	},
+	{
+		"layout": "split-reverse",
+		"title": "strengthen the change of long-term peace",
+		"background": "/assets/images/50-0006-resized.jpg",
+		"desc": {
+			"caption": "Solace",
+			"text": "People displaced by the fighting find shelter in an old factory on the grounds of a church in Bossangoa.",
+			"location": "Central African Republic, 2013"
+		}
+	},
+	{
+		"layout": "split",
+		"title": "and help build a better future",
+		"background": "/assets/images/51-0156-resized.jpg",
+		"desc": {
+			"caption": "A new life",
+			"text": "The father of a newboard takes shelter under trees while waiting for the departure of the convoy of refugees towards Chad.",
+			"location": "Central African Republic, 2014"
+		}
+	},
+	{
+		"layout": "img",
+		"title": "Help us build a more just world.",
+		"img": "/assets/images/ICC-Logo.jpg"
+	},
+	{
+		"layout": "ordered-list",
+		"title": "What you can do",
+		"list": [
+			{
+				"text": "Tell your friends about this exhibit"
+			},
+			{
+				"text": "Find out more at",
+				"link": {
+					"text": "www.icc-cpi.int",
+					"href": "https://www.icc-cpi.int"
+				}
+			},
+			{
+				"text": "Share these photos using",
+				"link": {
+					"text": "#morejustworld",
+					"href": "https://twitter.com"
+				}
+			}
+		],
+		"img": "/assets/images/ICC-Logo.jpg"
+	},
+	{
+		"layout": "photographer",
+		"img": "/assets/images/portrait_bleasdale.jpg",
+		"title": "Marcus Bleasdale",
+		"subtitle": "photographer",
+		"text": "Marcus Bleasdale has been involved in advocacy and human rights for twenty years. In his role as a documentary photographer for National Geographic Magazine and Human Rights Watch he has educated and advised corporations and policy makers around the world. This exhibit showcases some of Marcus’ work covering conflicts in The Democratic Republic of Congo (DRC), Central African Republic (CAR), Darfur (Sudan), Kenya and Georgia, situations in which the ICC investigates. Marcus has published three books One Hundred Years of Darkness (DRC, 2002), The Rape of a Nation (DRC, 2009), and The Unravelling (CAR, 2015).",
+		"link": {
+			"text": "www.marcusbleasdale.com",
+			"href": "https://www.marcusbleasdale.com"
+		}
+	},
+	{
+		"layout": "img",
+		"title": "International Criminal Court",
+		"subtitle": "The International Criminal Court (ICC) investigates and, where warranted, tries individuals charged with the gravest crimes of concern to the international community.",
+		"img": "/assets/images/ICC-permanent-premises.jpg"
+	},
+	{
+		"layout": "links",
+		"text": "The ICC has opened investigations in",
+		"links": [
+			{
+				"text": "Uganda",
+				"href": "https://www.icc-cpi.int/uganda"
+			},
+			{
+				"text": "Democratic Republic of Congo",
+				"href": "https://www.icc-cpi.int/drc"
+			},
+			{
+				"text": "Darfur (Sudan)",
+				"href": "https://www.icc-cpi.int/darfur"
+			},
+			{
+				"text": "Central African Republic",
+				"href": "https://www.icc-cpi.int/car"
+			},
+			{
+				"text": "Kenya",
+				"href": "https://www.icc-cpi.int/kenya"
+			},
+			{
+				"text": "Libya",
+				"href": "https://www.icc-cpi.int/libya"
+			},
+			{
+				"text": "Côte d'Ivoire",
+				"href": "https://www.icc-cpi.int/cdi"
+			},
+			{
+				"text": "Central African Republic II",
+				"href": "https://www.icc-cpi.int/carii"
+			},
+			{
+				"text": "Georgia",
+				"href": "https://www.icc-cpi.int/georgia"
+			},
+			{
+				"text": "Burundi",
+				"href": "https://www.icc-cpi.int/burundi"
+			}
+		]
+	},
+	{
+		"layout": "unordered-list",
+		"title": "Ongoing investigations focus on charges of a range of crimes, including: ",
+		"img": "/assets/images/ICC-Logo.jpg",
+		"list": [
+			{
+				"title": "Genocide",
+				"text": " including genocide by killing; genocide by causing serious bodily or mental harm; and genocide by deliberately inflicting on each target group conditions of life calculated to bring about the group's physical destruction;"
+			},
+			{
+				"title": "War crimes",
+				"text": "including, the use of child soldiers; murder; rape; sexual slavery; mutilation; cruel treatment; torture; pillaging; intentionally directing an attack against a civilian population; attacks against humanitarian missions, deportation or forcible transfer of population;"
+			},
+			{
+				"title": "Crimes against humanity",
+				"text": "including murder; torture; rape; sexual slavery; enslavement; forcible transfer of population; attacking a civilian population; persecution and other inhumane acts."
+			}
+		]
+	},
+	{
+		"layout": "img",
+		"title": "This year, as the Rome Statute turns 20, we are redoubling our efforts to build a more just world.",
+		"img": "/assets/images/ICC-Logo.jpg"
+	}
+]
