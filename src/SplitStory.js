@@ -45,7 +45,7 @@ const Description = styled.div`
 	font-weight: 300;
 	font-size: 9pt;
 	line-height: 1.5;
-	margin: 40px 0;
+	margin: 50px 0;
 	padding: 10px;
 	place-self: ${(props) => (props.reverse ? 'start center' : 'end start')};
 	grid-row: ${(props) => (props.reverse ? '1' : '2')};
@@ -64,7 +64,7 @@ const Disclaimer = styled.div`
 	font-size: 7pt;
 	line-height: 1.5;
 	place-self: ${(props) => (props.reverse ? 'start center' : 'end start')};
-	margin: 40px 0;
+	margin: 50px 0;
 	padding: 10px;
 	grid-row: ${(props) => (props.reverse ? '1' : '2')};
 	grid-column: 1;

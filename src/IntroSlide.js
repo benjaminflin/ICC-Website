@@ -22,6 +22,7 @@ const Wrapper = styled.div`
 	background-position: center;
 	font-size: 40pt;
 	font-weight: 100;
+	overflow: hidden;
 `;
 
 const Text = styled.div`

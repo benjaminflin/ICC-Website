@@ -27,6 +27,7 @@ const Wrapper = styled.div`
 	grid-auto-columns: 10%;
 	text-align: center;
 	color: white;
+	overflow: hidden;
 `;
 
 const Title = styled.div`

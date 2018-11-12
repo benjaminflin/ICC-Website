@@ -25,6 +25,7 @@ const Wrapper = styled.div`
 	place-content: center;
 	text-align: center;
 	animation: ${(props) => (props.active ? fadeIn : null)} 2s forwards;
+	overflow: hidden;
 `;
 
 const BlankSlide = ({ title, active }) => {
