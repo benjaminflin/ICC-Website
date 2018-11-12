@@ -14,7 +14,7 @@
 	},
 	"scripts": {
 		"dev": "react-scripts start",
-		"start": "react-scripts build; static-server build;",
+		"start": "react-scripts build; static-server build -p 3000;",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject"
@@ -22,10 +22,5 @@
 	"eslintConfig": {
 		"extends": "react-app"
 	},
-	"browserslist": [
-		">0.2%",
-		"not dead",
-		"not ie <= 11",
-		"not op_mini all"
-	]
+	"browserslist": [ ">0.2%", "not dead", "not ie <= 11", "not op_mini all" ]
 }
