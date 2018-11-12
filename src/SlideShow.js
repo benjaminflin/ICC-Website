@@ -12,7 +12,7 @@ import LinksSlide from './LinksSlide';
 import IntroSlide from './IntroSlide';
 
 const Wrapper = styled.div`
-	height: 100vh;
+	height: ${(props) => props.height}px;
 	overflow-y: scroll;
 	scroll-snap-type: y mandatory;
 `;
@@ -43,7 +43,7 @@ class SlideShow extends React.Component {
 	}
 	render() {
 		return (
-			<Wrapper ref={this.ref}>
+			<Wrapper height={Math.min(document.documentElement.clientHeight, window.innerHeight || 0)} ref={this.ref}>
 				{this.state.slides.map((slide, index) => {
 					const active = index === this.props.activeSlide;
 					switch (slide.layout) {

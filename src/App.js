@@ -5,7 +5,6 @@ import ActiveSlideContext from './ActiveSlideContext';
 import SlideShow from './SlideShow';
 import Menu from './Menu';
 import getQueryByName from './query';
-import scrollSnapPolyfill from 'css-scroll-snap-polyfill';
 
 import './App.css';
 
@@ -29,8 +28,6 @@ class App extends React.PureComponent {
 		const initLang = getQueryByName('lang');
 
 		this.setState({ lang: initLang == 'fr' ? 'fr' : 'en' });
-
-		scrollSnapPolyfill();
 	}
 
 	setActiveSlide(activeSlide) {

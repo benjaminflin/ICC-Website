@@ -14,8 +14,8 @@ const fadeInOut = keyframes`
 `;
 
 const Wrapper = styled.div`
-	width: 100vw;
-	height: 100vh;
+	width: 100%;
+	height: 100%;
 	font-family: Roboto, sans-serif;
 	scroll-snap-align: start;
 	background-size: cover;

@@ -12,9 +12,9 @@ const MenuBurger = styled.div`
 
 const MenuBurgerItem = styled.div`
 	position: relative;
-	width: 30px;
-	height: 2px;
-	margin: 6px;
+	width: 20px;
+	height: 1px;
+	margin: 4px;
 	background: #999;
 	border-radius: 100000px;
 `;
@@ -22,7 +22,7 @@ const MenuBurgerItem = styled.div`
 const MenuItem = styled.div`
 	font-family: Roboto, sans-serif;
 	font-weight: 100;
-	padding: 20px;
+	padding: 10px;
 `;
 
 class Menu extends React.Component {

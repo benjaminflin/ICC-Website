@@ -26,8 +26,8 @@ const StoryButton = styled.button`
 const Wrapper = styled.div`
 	display: grid;
 	place-content: center;
-	width: 100vw;
-	height: 100vh;
+	width: 100%;
+	height: 100%;
 	font-family: Roboto, sans-serif;
 `;
 

@@ -12,8 +12,8 @@ const fadeIn = keyframes`
 `;
 
 const Wrapper = styled.div`
-	width: 100vw;
-	height: 100vh;
+	width: 100%;
+	height: 100%;
 	font-family: Roboto, sans-serif;
 	scroll-snap-align: start;
 	background-size: cover;
@@ -77,10 +77,13 @@ const Disclaimer = styled.div`
 
 const StoryWrapper = styled.div`
 	opacity: 0;
-	padding: 30px;
+	padding: 10px;
+	margin: 40px 0;
 	place-self: ${(props) => (props.reverse ? 'start center' : 'end center')};
+
 	animation: ${(props) => (props.active ? fadeIn : null)} 2s 900ms forwards;
 `;
+
 const SplitStory = ({ title, background, disclaimer, desc, reverse, story, active }) => (
 	<Wrapper background={background}>
 		<Title active={active} reverse={reverse}>
