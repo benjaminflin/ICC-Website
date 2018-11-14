@@ -23,6 +23,10 @@ const MenuItem = styled.div`
 	font-family: Roboto, sans-serif;
 	font-weight: 100;
 	padding: 10px;
+
+	:hover {
+		background: rgba(0, 0, 0, 0.1);
+	}
 `;
 
 class Menu extends React.Component {

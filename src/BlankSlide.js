@@ -19,7 +19,7 @@ const Wrapper = styled.div`
 	background-size: cover;
 	background-position: center;
 	background-image: url(${(props) => props.background});
-	font-size: 40pt;
+	font-size: 5vmax;
 	font-weight: 100;
 	display: grid;
 	place-content: center;

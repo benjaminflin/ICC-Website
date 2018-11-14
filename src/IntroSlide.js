@@ -20,17 +20,18 @@ const Wrapper = styled.div`
 	scroll-snap-align: start;
 	background-size: cover;
 	background-position: center;
-	font-size: 40pt;
+	font-size: 50pt;
 	font-weight: 100;
 	overflow: hidden;
 `;
 
+// place text elements on top of each other
 const Text = styled.div`
 	position: relative;
 	text-align: center;
-	top: 10%;
+	top: ${(props) => props.index * -10 + 40}%;
 	opacity: 0;
-	animation: ${(props) => (props.active ? fadeInOut : null)} 2s ${(props) => props.delay}s forwards;
+	animation: ${(props) => (props.active ? fadeInOut : null)} 2s ${(props) => props.index * 2}s forwards;
 `;
 
 class IntroSlide extends React.Component {
@@ -47,7 +48,7 @@ class IntroSlide extends React.Component {
 		return (
 			<Wrapper>
 				{text.map((textItem, i) => (
-					<Text active={active} delay={i * 2}>
+					<Text active={active} index={i}>
 						{textItem}
 					</Text>
 				))}
