@@ -30,7 +30,7 @@ const Wrapper = styled.div`
 
 const Title = styled.div`
 	opacity: 0;
-	font-size: 25pt;
+	font-size: 5vmax;
 	color: white;
 	text-align: center;
 	place-self: center;
@@ -47,7 +47,8 @@ const Description = styled.div`
 	line-height: 1.5;
 	margin: 50px 0;
 	padding: 10px;
-	place-self: ${(props) => (props.reverse ? 'start center' : 'end start')};
+	max-width: 20vw;
+	place-self: center;
 	grid-row: ${(props) => (props.reverse ? '1' : '2')};
 	grid-column: 3;
 	animation: ${(props) => (props.active ? fadeIn : null)} 2s 300ms forwards;
@@ -63,7 +64,8 @@ const Disclaimer = styled.div`
 	font-weight: 300;
 	font-size: 7pt;
 	line-height: 1.5;
-	place-self: ${(props) => (props.reverse ? 'start center' : 'end start')};
+	place-self: center;
+	max-width: 20vw;
 	margin: 50px 0;
 	padding: 10px;
 	grid-row: ${(props) => (props.reverse ? '1' : '2')};
@@ -80,7 +82,6 @@ const StoryWrapper = styled.div`
 	padding: 10px;
 	margin: 40px 0;
 	place-self: ${(props) => (props.reverse ? 'start center' : 'end center')};
-
 	animation: ${(props) => (props.active ? fadeIn : null)} 2s 900ms forwards;
 `;
 
