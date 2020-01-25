@@ -1,60 +1,76 @@
-import React from 'react';
-import styled, { keyframes } from 'styled-components';
-import ActiveSlideContext from './ActiveSlideContext';
-const fadeInOut = keyframes`
-    0% {
-        opacity: 0;
-    }
-    50% {
-        opacity: 1;
-    }
-    100% {
-        opacity: 0;
-    }
-`;
+import React, { useState, useEffect, useContext, useRef } from "react";
+import styled from "styled-components";
+import ActiveSlideContext from "./ActiveSlideContext";
 
+const timing = 2000;
 const Wrapper = styled.div`
-	width: 100%;
-	height: 100%;
-	font-family: Roboto, sans-serif;
-	scroll-snap-align: start;
-	background-size: cover;
-	background-position: center;
-	font-size: 50pt;
-	font-weight: 100;
-	overflow: hidden;
+  width: 100%;
+  height: 100%;
+  font-family: Roboto, sans-serif;
+  scroll-snap-align: start;
+  background-size: cover;
+  background-position: center;
+  font-size: 42pt;
+  font-weight: 100;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 `;
 
-// place text elements on top of each other
 const Text = styled.div`
-	position: relative;
-	text-align: center;
-	top: ${(props) => props.index * -10 + 40}%;
-	opacity: 0;
-	animation: ${(props) => (props.active ? fadeInOut : null)} 2s ${(props) => props.index * 2}s forwards;
+  width: 100%;
+  text-align: center;
+  opacity: ${props => (props.opaque ? 1 : 0)};
+  transition: opacity ${timing / 2}ms ease-in-out;
 `;
 
-class IntroSlide extends React.Component {
-	static contextType = ActiveSlideContext;
+function useInterval(callback, delay) {
+  const savedCallback = useRef();
 
-	componentDidMount() {
-		setTimeout(() => {
-			if (this.props.active) this.context.setActiveSlide(1);
-		}, 6000);
-	}
+  useEffect(() => {
+    savedCallback.current = callback;
+  }, [callback]);
 
-	render() {
-		const { text, active } = this.props;
-		return (
-			<Wrapper>
-				{text.map((textItem, i) => (
-					<Text active={active} index={i}>
-						{textItem}
-					</Text>
-				))}
-			</Wrapper>
-		);
-	}
+  useEffect(() => {
+    function tick() {
+      savedCallback.current();
+    }
+    if (delay !== null) {
+      let id = setInterval(tick, delay);
+      return () => clearInterval(id);
+    }
+  }, [delay]);
 }
+
+const IntroSlide = ({ text, active }) => {
+  const ctx = useContext(ActiveSlideContext);
+  const [i, setI] = useState(0);
+  const [opaque, setOpaque] = useState(true);
+
+  useInterval(() => {
+    setOpaque(!opaque);
+    if (!opaque) {
+      setI(i + 1);
+    }
+  }, timing / 2);
+
+  useEffect(() => {
+    if (i === text.length && active) {
+      ctx.setActiveSlide(1);
+    }
+  }, [i, active]);
+
+  useEffect(() => {
+    if (active) {
+      setI(0);
+    }
+  }, [active]);
+
+  return (
+    <Wrapper>
+      <Text opaque={opaque}>{text[i]}</Text>
+    </Wrapper>
+  );
+};
 
 export default IntroSlide;
